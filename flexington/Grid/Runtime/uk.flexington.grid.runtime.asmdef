@@ -1,0 +1,14 @@
+{
+    "name": "uk.flexington.grid.runtime",
+    "rootNamespace": "flexington.grid",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
