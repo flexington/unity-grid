@@ -6,7 +6,7 @@ namespace flexington.Grid
     {
         public abstract void Visualise(T[,] grid, Transform parent = null, Vector2 cellSize = default, Vector2 origin = default);
 
-        internal TextMesh CreateWorldText(string text, Transform parent = null, Vector3 localPosition = default(Vector3))
+        protected TextMesh CreateWorldText(string text, Transform parent = null, Vector3 localPosition = default(Vector3))
         {
             GameObject gameObject = new GameObject("World_Text", typeof(TextMesh));
             Transform transform = gameObject.transform;
