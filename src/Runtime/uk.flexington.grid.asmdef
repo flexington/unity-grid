@@ -1,6 +1,6 @@
 {
-    "name": "uk.flexington.grid.runtime",
-    "rootNamespace": "flexington.grid",
+    "name": "uk.flexington.grid",
+    "rootNamespace": "flexington.Grid",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -12,7 +12,6 @@
     "dependencies": {},
     "testables": [
         "uk.flexington.grid.tests",
-        "uk.flexington.grid.tests.src",
         "uk.flexington.grid.tests.editor"
     ],
     "keywords": [

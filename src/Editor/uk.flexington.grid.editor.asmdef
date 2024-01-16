@@ -1,6 +1,6 @@
 {
     "name": "uk.flexington.grid.editor",
-    "rootNamespace": "",
+    "rootNamespace": "flexington.Grid",
     "references": [],
     "includePlatforms": [
         "Editor"
