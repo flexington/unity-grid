@@ -10,6 +10,11 @@
     "licensesUrl": "https://github.com/flexington/unity-grid/blob/ebc50fb5883df6ea884f20b0d078fe0cb02ee9cb/LICENSE",
     "changelogUrl": "",
     "dependencies": {},
+    "testables": [
+        "uk.flexington.grid.tests",
+        "uk.flexington.grid.tests.src",
+        "uk.flexington.grid.tests.editor"
+    ],
     "keywords": [
         "flexington",
         "grid",
