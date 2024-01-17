@@ -1,0 +1,22 @@
+{
+    "name": "uk.flexington.grid",
+    "displayName": "Flexington Grid",
+    "version": "1.0.0-alpha.1",
+    "unity": "2022.3",
+    "author": {
+        "name": "Sandro Paetzold",
+        "email": "unity@flexington.uk"
+    },
+    "licensesUrl": "https://github.com/flexington/unity-grid/blob/ebc50fb5883df6ea884f20b0d078fe0cb02ee9cb/LICENSE",
+    "changelogUrl": "",
+    "dependencies": {},
+    "testables": [
+        "uk.flexington.grid.tests",
+        "uk.flexington.grid.tests.editor"
+    ],
+    "keywords": [
+        "flexington",
+        "grid",
+        "2d"
+    ]
+}
